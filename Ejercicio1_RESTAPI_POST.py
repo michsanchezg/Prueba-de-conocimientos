@@ -6,7 +6,7 @@ import json
 
 app = Flask(__name__)
 
-@app.route('/palindromo', methods= ['POST'])
+@app.route('/palíndromo', methods= ['POST'])
 def postear():
     listaBooleanos = []
 
