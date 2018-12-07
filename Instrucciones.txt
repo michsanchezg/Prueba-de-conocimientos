@@ -1,0 +1,25 @@
+PRUEBA DE CONOCIMIENTOS
+Michelle Sánchez Guerrero
+
+__________________________________________________________________________________________________________________________________________
+Ejercicio 1. (Ejercicio1_RESTAPI_GET.py)
+
+GET. 
+
+Ejecutar el archivo Python, puede ser en algun IDE como Visual Studio Code o Pycharm. Posteriormente, utilizando el software "Postman", hacer un request de tipo GET para recibir el objeto JSON de respuesta. 
+Nota: Dicho código fue ejecutado en Pycharm y Visual Studio Code, en Pycharm se deben instalar las librerías antes de ejecutar el archivo.
+**IMPORTANTE: En esta REST API los nombres de las ciudades deberán ser ingresadas en Inglés, dependiendo de si el nombre de la ciudad tiene traducción.
+
+__________________________________________________________________________________________________________________________________________
+Ejercicio 1. (Ejercicio1_RESTAPI_POST.py)
+
+POST.
+
+Ejecutar el archivo Python, puede ser en algun IDE como Visual Studio Code o Pycharm. Posteriormente, utilizando el software "Postman", hacer un request de tipo POST para enviar la lista de palabras en formato JSON, y recibir una lista de Booleanos.  
+Nota: Dicho código fue ejecutado en Pycharm y Visual Studio Code, en Pycharm se deben instalar las librerías antes de ejecutar el archivo.
+	
+__________________________________________________________________________________________________________________________________________
+Ejercicio 2. (Ejercicio2.py)
+
+Ejecutar el archivo Python, puede ser en algun IDE como Visual Studio Code o Pycharm. Después se deberá ingresar la palabra o tema que se quiera buscar en es.wikipedia.org, en la consola/terminal en el momento que aparezca "Búsqueda: ". Unos segundos después, se abrirá Chrome, buscará en el sitio de Wikipedia el tema deseado y en la mayoría de casos, desplegará el primer párrafo de información en la terminal.
+Nota: Dicho código fue ejecutado en Pycharm y Visual Studio Code, en Pycharm se deben instalar las librerías antes de ejecutar el archivo.
