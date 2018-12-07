@@ -17,6 +17,7 @@ POST.
 
 Ejecutar el archivo Python, puede ser en algun IDE como Visual Studio Code o Pycharm. Posteriormente, utilizando el software "Postman", hacer un request de tipo POST para enviar la lista de palabras en formato JSON, y recibir una lista de Booleanos.  
 Nota: Dicho código fue ejecutado en Pycharm y Visual Studio Code, en Pycharm se deben instalar las librerías antes de ejecutar el archivo.
+**IMPORTANTE: La ruta es /palindromo, mas no /palíndromo
 	
 __________________________________________________________________________________________________________________________________________
 Ejercicio 2. (Ejercicio2.py)
